@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "55c4",
+      "firstname": "Karimov",
+      "lastname": "Ulug'bek",
+      "age": 2,
+      "gender": "male"
+    }
+  ]
+}
